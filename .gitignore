@@ -3,3 +3,5 @@
 ################################################################################
 
 /CoreTestApp/.vs
+/CoreTestApp/src/CoreTestApp/bin/Debug/netcoreapp1.0
+/CoreTestApp/src/CoreTestApp/obj/Debug/netcoreapp1.0
